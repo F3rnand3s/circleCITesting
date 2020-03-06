@@ -1,0 +1,25 @@
+{
+  "name": "circlecitesting",
+  "version": "1.0.0",
+  "description": "circleCI testing",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F3rnand3s/circleCITesting.git"
+  },
+  "keywords": [
+    "circleCI"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F3rnand3s/circleCITesting/issues"
+  },
+  "homepage": "https://github.com/F3rnand3s/circleCITesting#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
