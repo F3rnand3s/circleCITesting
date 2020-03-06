@@ -2,7 +2,7 @@
  jobs:
    build:
      docker:
-       - image: circleci/node:v12.16.1
+       - image: circleci/node:latest
      steps:
        - checkout
        - run: npm install
